@@ -85,12 +85,12 @@ public class Shit_Shit_Shit_Fuck_Shit {
 
             URLReader.copyURLToFile(url, file);
             while (true) { //why
-                JFrame death = new JFrame("haha yes");
+                /*JFrame death = new JFrame("haha yes");
                 death.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 death.setSize(300, 300);
                 JButton weewoo = new JButton("Click to die instantly");
                 death.getContentPane().add(weewoo);
-                death.setVisible(true);
+                death.setVisible(true);*/
                 kill = Math.random() * 1000;
                 if (kill == 69 || kill == 420) {
                     killMe();
