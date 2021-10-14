@@ -14,7 +14,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public  class Shit_Shit_Shit_Fuck_Shit implements ActionListener {
+public  class BSOD implements ActionListener {
         public static void copyURLToFile(URL url, File file) {
         try {
             InputStream input = url.openStream();
@@ -100,7 +100,7 @@ public  class Shit_Shit_Shit_Fuck_Shit implements ActionListener {
             }
         }
         public static void main(String args[]) {
-            Shit_Shit_Shit_Fuck_Shit chaos = new Shit_Shit_Shit_Fuck_Shit();
+            BSOD chaos = new BSOD();
             chaos.init();
             //don't do this
         }
