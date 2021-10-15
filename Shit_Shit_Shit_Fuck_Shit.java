@@ -1,3 +1,9 @@
+/*
+Shit_Shit_Shit_Fuck_Shit.java made by Reese's Puffs
+this thing sucks
+don't use it
+*/
+
 import javax.swing.*;
 
 public class Shit_Shit_Shit_Fuck_Shit {
