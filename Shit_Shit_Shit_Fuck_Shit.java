@@ -18,6 +18,8 @@ public class Shit_Shit_Shit_Fuck_Shit {
     	    JButton weewoo = new JButton("Click to die instantly");
     	    death.getContentPane().add(weewoo);
     	    death.setVisible(true);
+	    //fork bomb code from aaronyank/fork-bomb, haven't tested, theoretically works
+	    //Runtime.getRuntime().exec(new String[]{"javaw", "-cp", System.getProperty("java.class.path"), "forkbomb"});
     	}
     	//don't do this
     }
