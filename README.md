@@ -6,4 +6,4 @@ We are not responsible for anything that may happen to your computer in the even
 
 ## General guidlines
 If you make incredibly large additions to a program, please make it into a separate file.
-Smaller things like adding fork bomb functionality to my GUI bomb doesn't require making a separate file.
+Smaller things like Applebees don't require being a separate file. Just get rid of them. Get them the fuck out of here. Nobody deserves to see the terror that is Applebees. Pearwasps shall reign supreme.
